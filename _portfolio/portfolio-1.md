@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Horoscopo Twitter"
+excerpt: "GPT3,Roberta y Dreamlike! <br/><img src='/images/horoscopo_portada.jpg'>"
 collection: portfolio
 ---
 
