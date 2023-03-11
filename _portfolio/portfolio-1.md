@@ -1,6 +1,6 @@
 ---
 title: "Horoscopo Twitter"
-excerpt: "GPT3,Roberta y Dreamlike! <br/><img style="height:100px" src='/images/horoscopo_portada.jpg'>"
+excerpt: "GPT3,Roberta y Dreamlike! <br/><div><img style="height:300px" src='/images/horoscopo_portada.jpg'></div>"
 collection: portfolio
 ---
 
