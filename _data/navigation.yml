@@ -1,9 +1,9 @@
 # main links links
 main:
-  - title: "Publications"
+  - title: "Publicaciones"
     url: /publications/
    
-  - title: "Portfolio"
+  - title: "Portafolio"
     url: /portfolio/
          
   - title: "CV"
